@@ -9,9 +9,9 @@
 En este repositorio puedes encontrar una gran cantidad de información, como por ejemplo tutoriales, ejemplos de código, documentación, recursos y enlaces a otras fuentes. Esto puede ser de gran ayuda para los aprendices, ya que pueden profundizar en los temas que les resulten más difíciles o revisar los conceptos que necesiten repasar.
 
 ## Temas de estudio
-    1. Introducción a la programación y a Dart
-        ◦ ¿Qué es la programación?
+    1. Introducción a la programación en Dart
         ◦ ¿Qué es Dart?
+        ◦ Ventajas de utilizar Dart
         ◦ Instalación y configuración del entorno de desarrollo de Dart
     2. Variables, tipos de datos y operadores
         ◦ Declaración de variables
