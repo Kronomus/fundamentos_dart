@@ -13,30 +13,30 @@ En este repositorio puedes encontrar una gran cantidad de información, como por
     - Ventajas de utilizar Dart
     - Instalación y configuración del entorno de desarrollo de Dart
 2. Variables, tipos de datos y operadores
-    ◦ Declaración de variables
-    ◦ Tipos de datos primitivos
-    ◦ Tipos de datos objetos
-    ◦ Operadores aritméticos, lógicos y relacionales
+    -Declaración de variables
+    - Tipos de datos primitivos
+    - Tipos de datos objetos
+    - Operadores aritméticos, lógicos y relacionales
 3. Control de flujo: condicionales y bucles
-    ◦ Estructuras de control de flujo
-    ◦ Condicionales if-else
-    ◦ Bucles for, while, do-while, for-in y ForEach
+    - Estructuras de control de flujo
+    - Condicionales if-else
+    - Bucles for, while, do-while, for-in y ForEach
 4. Funciones y parámetros
-    ◦ Declaración y uso de funciones
-    ◦ Parámetros y argumentos
-    ◦ Funciones anónimas y de orden superior
-    ◦ Funciones flecha (arrow functions) 
+    - Declaración y uso de funciones
+    - Parámetros y argumentos
+    - Funciones anónimas y de orden superior
+    - Funciones flecha (arrow functions) 
 5. Programación orientada a objetos: clases, objetos y herencia
-    ◦ Introducción a la programación orientada a objetos
-    ◦ Clases y objetos
-    ◦ Herencia y polimorfismo
+    - Introducción a la programación orientada a objetos
+    - Clases y objetos
+    - Herencia y polimorfismo
 6. Colecciones: listas, conjuntos y mapas
-    ◦ Trabajando con colecciones
-    ◦ Listas y conjuntos
-    ◦ Mapas y diccionarios
+    - Trabajando con colecciones
+    - Listas y conjuntos
+    - Mapas y diccionarios
 7. Excepciones y manejo de errores
-    ◦ Manejo de excepciones
-    ◦ Excepciones personalizadas
-    ◦ Uso de try-catch-finally
+    - Manejo de excepciones
+    - Excepciones personalizadas
+    - Uso de try-catch-finally
 
 
