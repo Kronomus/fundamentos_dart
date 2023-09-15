@@ -9,7 +9,7 @@
 En este repositorio puedes encontrar una gran cantidad de información, como por ejemplo tutoriales, ejemplos de código, documentación, recursos y enlaces a otras fuentes. Esto puede ser de gran ayuda para los aprendices, ya que pueden profundizar en los temas que les resulten más difíciles o revisar los conceptos que necesiten repasar.
 ## Temas de estudio
 1. Introducción a la programación en Dart
-    - [¿Qué es Dart?](./bin/1-Introducción%20a%20la%20programación%20en%20Dart/A-Introducción%20a%20la%20programación%20en%20Dart.md)
+    - [¿Qué es Dart?](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/1-Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20en%20Dart/1%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20en%20Dart.md)
     - Ventajas de utilizar Dart
     - Instalación y configuración del entorno de desarrollo de Dart
 2. Variables, tipos de datos y operadores
