@@ -7,18 +7,7 @@ Las estructuras de control de flujo son instrucciones que te permiten controlar 
         // Código a ejecutar si la condición es verdadera
     } else {
         // Código a ejecutar si la condición es falsa
-    }
-    
-    void main() {
-        int numero = 7;
-        if (numero > 5) {
-            print("El número es mayor");
-        } else {
-            print("El número es menor");
-        }
-    }
-    
-    
+    }  
 ```
 ### Ejemplo en dart
 
