@@ -14,3 +14,16 @@ Los operadores aritméticos se utilizan para realizar operaciones matemáticas b
 | / | Divide dos valores | 4 / 2 = 2 | double division = 8 / 2; // division tendrá el valor de 4.0 |
 | % | Devuelve el resto de una división | 5 % 2 = 1 | int resto = 10 % 3; // resto tendrá el valor de 1 |
 
+## Operadores relacionales
+
+Los operadores relacionales se utilizan para comparar dos valores y devolver un valor booleano (true o false) que indica si la comparación es verdadera o falsa. A continuación, se muestra una lista de los operadores relacionales disponibles en Dart:
+
+| Operador | Descripción | Ejemplo | Codificación |
+|----------| --- | --- | --- |
+| ==       | Comprueba si dos valores son iguales | 2 == 2 = true | bool esIgual = 5 == 5; // esIgual tendrá el valor de true |
+| !=       | Comprueba si dos valores son diferentes | 2 != 2 = false | bool esDiferente = 5 != 5; // esDiferente tendrá el valor de false |
+| \>       | Comprueba si un valor es mayor que otro | 2 > 2 = false | bool esMayor = 5 > 5; // esMayor tendrá el valor de false |
+| <        | Comprueba si un valor es menor que otro | 2 < 2 = false | bool esMenor = 5 < 5; // esMenor tendrá el valor de false |
+| \>=      | Comprueba si un valor es mayor o igual que otro | 2 >= 2 = true | bool esMayorIgual = 5 >= 5; // esMayorIgual tendrá el valor de true |
+| <=       | Comprueba si un valor es menor o igual que otro | 2 <= 2 = true | bool esMenorIgual = 5 <= 5; // esMenorIgual tendrá el valor de true |
+
