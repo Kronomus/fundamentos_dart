@@ -13,7 +13,7 @@ En este repositorio puedes encontrar una gran cantidad de información, como por
     - Ventajas de utilizar Dart
     - Instalación y configuración del entorno de desarrollo de Dart
 2. Variables, tipos de datos y operadores
-    -Declaración de variables
+    - Declaración de variables
     - Tipos de datos primitivos
     - Tipos de datos objetos
     - Operadores aritméticos, lógicos y relacionales
