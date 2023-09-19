@@ -22,21 +22,18 @@ En este repositorio puedes encontrar una gran cantidad de información, como por
     - Condicionales if-else
     - Bucles for, while, do-while, for-in y ForEach
 4. Funciones y parámetros
-    - Declaración y uso de funciones
+    - [Declaración y uso de funciones](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/4-Funciones%20y%20par%C3%A1metros/1-Funciones%20y%20par%C3%A1metros.md)
     - Parámetros y argumentos
     - Funciones anónimas y de orden superior
-    - Funciones flecha (arrow functions) 
+    - [Funciones flecha (arrow functions)](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/4-Funciones%20y%20par%C3%A1metros/2-Funciones%20flecha%20(arrow%20functions).md)
 5. Programación orientada a objetos: clases, objetos y herencia
-    - Introducción a la programación orientada a objetos
-    - Clases y objetos
-    - Herencia y polimorfismo
-6. Colecciones: listas, conjuntos y mapas
-    - Trabajando con colecciones
-    - Listas y conjuntos
-    - Mapas y diccionarios
-7. Excepciones y manejo de errores
-    - Manejo de excepciones
-    - Excepciones personalizadas
-    - Uso de try-catch-finally
+    - [Introducción a la programación orientada a objetos](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/1-Programaci%C3%B3n%20orientada%20a%20objetos.md)
+    - [Constructor](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/2-Contructor.md)
+    - [Herecia](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/3-Herencia.md)
+    - [Encapsulamiento](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/4-Encapsulaci%C3%B3n.md)
+    - [Polimorfismo](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/5-Polimorfismo.md)
+    - [Metodos y atributos estáticos](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/5-Programaci%C3%B3n%20orientada%20a%20objetos/6-M%C3%A9todos%20y%20propiedades%20est%C3%A1ticas.md)
+6. Excepciones y manejo de errores
+    - [Excepciones y manejo de errores](https://github.com/Kronomus/fundamentos_dart/blob/master/bin/6-Excepciones%20y%20manejo%20de%20errores/Excepciones%20y%20manejo%20de%20errores.md)
 
 
